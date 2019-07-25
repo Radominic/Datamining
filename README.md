@@ -8,27 +8,37 @@
 - Input data 
 
 <https://drive.google.com/uc?export=download&id=1YPnojmYq_2B_lrAa78r_lRy-dX_ijpCM', sep='\t'>
+
 The given dataset aims to predict Mean_temperature using several explanatory variables.
 
 [INPUT]
+
 Max_temperature
+
 Min_temperature
+
 Dewpoint
+
 Precipitation
+
 Sea_level_pressure
+
 Standard_pressure
+
 Visibility
+
 Wind_speed
+
 Max_wind_speed
 
 [OUTPUT]
 Mean_temperature
 
--Description
+- Description
 
 Analyze multiple linear regression using scatter plot, correlation matrix, VIF, T-test, R^2, F-test, JB-test and LM-text 
 
--Code
+- Code
 
 writed on python3
 
@@ -37,6 +47,7 @@ writed on python3
 - Input data 
 
 <https://drive.google.com/uc?export=download&id=1AoCh22pmLHhdQtYdYUAJJqOCwF9obgVO', sep='\t'>
+
 The given dataset is MAGIC Gamma Telescope data set. 
 
 [Input]
@@ -52,16 +63,16 @@ The given dataset is MAGIC Gamma Telescope data set.
 10. fDist: continuous # distance from origin to center of ellipse [mm] 
 
 [Target]
+
 11. class: g(gamma; signal), h(hadron; background) 
 
--Description
+- Description
 
 Analyze Logistic regression regression using plot, Bernoulli naive Bayes, K-NN, Weighted K-NN, K-means by Euclidean and Manhattan measurement, homogeneity and completeness. 
 
--Code
+- Code
 
 writed on python3
-
 
 ## Team Project
 
